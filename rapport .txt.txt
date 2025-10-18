@@ -1,0 +1,2 @@
+Ce projet analyse les caractéristiques morphologiques des insectes.
+Les données contiennent le nom, le poids et la longueur de chaque insecte.
