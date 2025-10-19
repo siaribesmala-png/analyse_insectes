@@ -1,7 +1,8 @@
-#Analyse des insectes
-Ce projet analyse les caractéristiques morphologiques des insectes.
+# Analyse des insectes
+Ce projet analyse les caract´eristiques morphologiques des
+insectes.
 ## Fichiers
-- donnees.csv : données brutes
-- rapport.txt : résultats
+- donnees.csv : donn´ees brutes
+- rapport.txt : r´esultats
 ## Auteur
-Besmala S. — Master 1 Biologie
+besmala .S { Master 1 Biologie
